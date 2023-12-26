@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kundan-programer
 - 👀 I’m interested in frontend developer
-- 🌱 I’m currently learning web-development,python,java
+- 🌱 I’m currently learning DSA,java,(html,css,js)
 - 📫 How to reach me by following social media:-
 - instagram-Id:https://www.instagram.com/ku.ndan1569/
 - LinkedIn:http://www.linkedin.com/in/kundan-kumar-189941261
