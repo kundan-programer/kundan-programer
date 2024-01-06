@@ -1,4 +1,4 @@
-![logo](https://github.com/kundan-programer/kundan-programer/blob/main/WhatsApp%20Image%202024-01-06%20at%2015.56.18_6e787b39.jpg)
+![logo](https://github.com/kundan-programer/kundan-programer/blob/main/kundan%20kumar.png)
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
 <h3 align="center">A passionate java developer from India</h3>
 
