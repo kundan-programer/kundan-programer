@@ -7,10 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kundan-programer&label=Profile%20views&color=0e75b6&style=flat" alt="kundan-programer" /> </p>
 
 - 💬 Ask me about **Java,DSA,C++, Basic html,css,java**
+
+- 🤞Always ready for **ideathon**
   
 - ⚡ Fun fact **I am so funny😒😒**
 
-- 📫 How to reach me **http://www.linkedin.com/in/kundan-kumar-189941261**
+- 📫 How to reach me **kundan16102002@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
